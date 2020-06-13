@@ -28,7 +28,7 @@ app.use(passport.session());
 
 
 //define routes
-
+app.use('/auth',authRoutes);
 
 app.get('/',(req,res)=>{
     res.send('welcome to home page');
