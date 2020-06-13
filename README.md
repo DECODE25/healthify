@@ -1,7 +1,7 @@
 <div align = "center">
 
 
-<img height=200px src= "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX37349202.jpg">
+<img height=200px src= "https://www.dietdoc.com/wp-content/uploads/2019/10/obesity-causes-infographic.jpg">
 
 
 <h1>DECODE25</h1>
