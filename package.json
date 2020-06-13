@@ -1,0 +1,32 @@
+{
+  "name": "healthify",
+  "version": "1.0.0",
+  "description": "<div align = \"center\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DECODE25/healthify.git"
+  },
+  "author": "DECODE25",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DECODE25/healthify/issues"
+  },
+  "homepage": "https://github.com/DECODE25/healthify#readme",
+  "dependencies": {
+    "cookie-session": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.5.0",
+    "googleapis": "^52.1.0",
+    "mongoose": "^5.9.18",
+    "passport": "^0.4.1",
+    "passport-google-oauth": "^2.0.0",
+    "passport-google-oauth20": "^2.0.0",
+    "request": "^2.88.2"
+  }
+}
